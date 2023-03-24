@@ -1,6 +1,8 @@
 html{
     padding: 1%;
+    font-family: sans-serif;
 }
+
 body{
     background-image: url("/img/abstract_falling_lines_blue_background.jpg");
     background-size: cover;
