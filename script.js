@@ -1,7 +1,9 @@
 let contacto = 
-    '<p> <i class=\'bx bxl-whatsapp-square\'>: 221-5556762 </i><br><br>\
-    <i class=\'bx bxs-envelope\' >: mail.mail@gmail.com </i><br><br>\
-    <i class=\'bx bxl-linkedin-square\' >: linkedin.com/in/juan.perez </i></p>';
+    '<p>\
+    Whatsapp: <a href= \'https://wa.me/2215556762\'>221-5556762</a> <br><br>\
+    Email: <a href= \'mailto:mail.mail@gmail.com\'>mail.mail@gmail.com </a> <br><br>\
+    Linkedin: <a href= \'https://linkedin.com/in/juan.perez\'>linkedin.com/in/juan.perez </a>\
+    </p>';
 
 let sobre_mi = 
     '<p> <br><br> - Nombre: Juan Alberto Perez <br><br>\
@@ -11,7 +13,7 @@ let sobre_mi =
      - Estado civil: Soltero </p>';
 
 let experiencia = 
-    '<p> <br><a id="btn_exp" onclick="click_experiencia()" >Experiencia</a> | <a id="btn_cur" onclick="click_cursos()" >Cursos</a> <br><br><br><br><br>\
+    '<p> <br><a id="btn_exp" onclick="click_experiencia()" ><u>Experiencia</u></a> | <a id="btn_cur" onclick="click_cursos()" ><u>Cursos</u></a> <br><br><br><br><br>\
     - Armado y reparación de PC / Instalación de redes\
     informáticas independientemente.<br><br><br>\
     - Empleado como reparador de PC en local de computación “Computacion”.<br><br><br>\
