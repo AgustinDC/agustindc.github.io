@@ -24,7 +24,7 @@ let experiencia =
     hasta la actualidad. </p>';
 
 let cursos = 
-    '<p><br><a id="btn_exp" onclick="click_experiencia()" >Experiencia</a> | <a id="btn_cur" onclick="click_cursos()" >Cursos</a> <br><br><br><br><br>\
+    '<p><br><a id="btn_exp" onclick="click_experiencia()" ><u>Experiencia</u></a> | <a id="btn_cur" onclick="click_cursos()" ><u>Cursos</u></a> <br><br><br><br><br>\
     - Curso Coderhouse Backend en C# / .net <br><br>\
     - Argentina Programa 4.0: Primeros pasos del desarrollo frontend.<br><br>\
     - Curso Introductorio a JavaScript de SoyHenry.';
