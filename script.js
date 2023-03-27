@@ -19,8 +19,8 @@ let experiencia =
     - Empleado como reparador de PC en local de computación “Computacion”.<br><br><br>\
     - Empleado como técnico administrador de redes en el\
     Servicio de telefonia e Internet<br><br> con servicio a domicilio y\
-    soporte telefónico en el área de internet.<br><br> gimDesarrollo tareas\
-    de coordinación con otras áreas y personal desde el 2013\
+    soporte telefónico en el área de internet.<br><br> \
+    Desarrollo tareas de coordinación con otras áreas y personal desde el 2013\
     hasta la actualidad. </p>';
 
 let cursos = 
