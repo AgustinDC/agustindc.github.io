@@ -24,6 +24,11 @@ body{
     border-radius: 50%;
 }
 
+#img:hover {
+    zoom: 1.2;
+    transition: 500ms
+}
+
 #article{
     position: relative;
     padding: 2%;
